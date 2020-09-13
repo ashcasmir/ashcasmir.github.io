@@ -15,4 +15,5 @@ fields:
   name: categories
   label: categories
 pages:
+- _posts/3-learning-by-osmosis.md
 - _posts/persistence-beats-talent.md
