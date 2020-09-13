@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#6 To Think Different, See Differently"
+title: "#6 To Think Differently, See Differently"
 date: 2020-09-05 18:30:00 +0000
 categories: ''
 
