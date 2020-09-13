@@ -2,6 +2,8 @@
 layout: post
 title: Hello World!
 published: true
+date: '2020-09-01 09:20:20 +0530'
+categories: announcement
 ---
 After a long time, I'm back to publishing on the web. I had tried blogging from multiple platforms, but my experimentations were usually short-lived, with most spanning just a week. My longest writing streak was in December 2018, where I had written about 20+ posts within a 30-day period. This was after I had started writing, being inspired by [this Seth Godin's post](https://seths.blog/2018/10/the-first-1000-are-the-most-difficult/).
 
