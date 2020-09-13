@@ -1,16 +1,10 @@
 ---
 layout: post
-title: Persistence Beats Talent
+title: "#2 Persistence Beats Talent"
 date: 2001-09-02 03:30:00 +0000
 categories: ''
 
 ---
-    layout: post
-    title:  "Persistence Beats Talent"
-    date:   2020-09-02 09:30:00 +0530
-    categories: life
-    draft: true
-
 > A lot of success in life is that passion and persistence, of really staying the course, staying working on it, and, not letting go. Not giving up. - Dr. Terrence Sejnowski
 
 <!--more-->
