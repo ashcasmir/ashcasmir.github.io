@@ -12,7 +12,3 @@ Keep staring at the black cross at the center of the image, and after a point th
 Now, this is similar to how we see the world. When we are seeing something repeatedly, we have fixed perspective of how we see it. And most often we no longer pay too much attention to it. And the best minds have come up with world changing ideas, by seeing the world around them differently.
 
 So don't search for the extraordinary, look at the things that are right in front of us, but only this time from the perspective that escapes most people.
-
-\[\[Mindfulness in everyday things TK\]\]
-
-\[\[The perils of getting used to things TK\]\]
