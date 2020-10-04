@@ -5,12 +5,6 @@ date: 2020-09-03 04:01:00 +0000
 categories: ''
 
 ---
-    layout: post
-    title:  "Learning by Osmosis"
-    date:   2020-09-03 09:30:00 +0530
-    categories: learning
-    
-
 There are different ways in which people learn.
 
 ## Learning by acquiring knowledge from others
