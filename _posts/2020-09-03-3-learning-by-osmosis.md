@@ -20,5 +20,3 @@ This is a much more effective form of learning than the previous one. This is wh
 I am a big believer of learning by just being around smart people. I have experienced that I have acquired skills and rapidly expanded my knowledge, just by working with the right set of people, who are highly knowledgeable. This type of learning is slow & gradual and usually hard to notice, especially when the learning happens within the environment. So usually, you notice the difference only when you look back, reviewing your progress.
 
 Learning by osmosis, also incites you to learn through the other methods, to allow you to keep working with these smart people.
-
-\[\[Do Nice Guys Finish Last#Pick the right pond | Pick the right pond\]\] \[\[Naval Ravikant on Tools of Titans#The Five Chimps Theory|The five chimps theory\]\]
